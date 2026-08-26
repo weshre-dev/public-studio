@@ -9,4 +9,8 @@
     <loc>https://www.studio.weshre.com/services</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.studio.weshre.com/portfolio</loc>
+    <priority>0.8</priority>
+  </url>
 </urlset>
